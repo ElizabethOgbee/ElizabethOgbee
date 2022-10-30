@@ -5,3 +5,6 @@
 - 🌱 I’m currently learning Solidity.
 - 👯 I’m looking to collaborate on Smart Contract projects 
 - ⚡ Fun fact: I love Sewing and farming Catfish and Poultry
+![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabethOgbee&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethOgbee&layout=compact)](https://github.com/ElizabethOgbeeS/github-readme-stats)
