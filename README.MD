@@ -2,8 +2,8 @@
 #
 
 - 🔭 I’m currently working on My journey to become a Smart Contract Developer
-- 🌱 I’m currently learning Solidity.
-- 👯 I’m looking to collaborate on Smart Contract projects 
+<!--- 🌱 Currently learning Solidity.-->
+- 👯 Looking to collaborate on Smart Contract projects 
 - ⚡ Fun fact: I love Sewing and Farming of Catfish and Poultry
 - 📫 How to reach me on ogbeelizabeth344@gmail.com
 
