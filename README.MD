@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Solidity.
 - 👯 I’m looking to collaborate on Smart Contract projects 
 - ⚡ Fun fact: I love Sewing and farming Catfish and Poultry
--  📫 How to reach me on ogbeElizabeth344@gmail.com
+-  📫 How to reach me on ogbeelizabeth344@gmail.com
 
 <h3 align="left">Where You Can Find Me:</h3>
 <p align="left">
@@ -15,3 +15,6 @@
 ![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabethOgbee&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethOgbee&layout=compact)](https://github.com/ElizabethOgbeeS/github-readme-stats)
+ 
+ [![Larrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljcutts)](https://github.com/ljcutts/github-readme-stats)
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ljcutts" />
