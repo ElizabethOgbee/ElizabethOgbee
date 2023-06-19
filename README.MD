@@ -16,6 +16,8 @@
  
 ![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabethOgbee&show_icons=true&theme=radical)  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElizabethOgbee" />
  
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElizabethOgbee&show_icons=true&locale=en&layout=compact" alt="elizabeth" /></p>
+ 
  
  
  
