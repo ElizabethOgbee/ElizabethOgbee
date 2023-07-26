@@ -1,7 +1,7 @@
 ![Github Image Header](IMAGE/github-header-image%20(1).png)
 #
 
-- 🔭 I’m currently working on Tic Tac. A content Display Website
+- 🔭 I’m currently learning unit testing using Mocha framework. 
 <!--- 🌱 Currently learning Solidity.-->
 - 👯 Looking to collaborate on Smart Contract projects 
 - ⚡ Fun fact: I love Sewing and Farming of Catfish and Poultry
