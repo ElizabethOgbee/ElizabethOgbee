@@ -1,10 +1,10 @@
 ![Github Image Header](IMAGE/github-header-image%20(1).png)
 #
 
-- 🔭 I’m currently learning unit testing using Mocha framework. 
-<!--- 🌱 Currently learning Solidity.-->
-- 👯 Looking to collaborate on Smart Contract projects 
-- ⚡ Fun fact: I love Sewing and Farming of Catfish and Poultry
+- 🔭 I’m currently learning Pandas for Data Analytics. 
+<!--- 🌱 Currently learning Pandas.-->
+- 👯 Looking to collaborate on Data Analytics projects 
+- ⚡ Fun fact: I love solving problems every day
 - 📫  Reach me here: ogbeelizabeth344@gmail.com
 
 <h3 align="left">You Can also Find Me here:</h3>
